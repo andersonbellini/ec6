@@ -1,6 +1,6 @@
 # ec6
 
-###Ecma Script 6 >
+##Ecma Script 6 >
 
 Exemplos usando ES6
 
